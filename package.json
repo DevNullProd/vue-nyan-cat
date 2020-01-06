@@ -7,7 +7,7 @@
     "plugin",
     "nyan cat"
   ],
-  "main": "dist/vue-nyan-cat.js",
+  "main": "dist/vue-nyan-cat.common.js",
   "license": "MIT",
   "author": "Mo Morsi <devnullproductions@gmail.com>",
   "repository": "github:DevNullProd/vue-nyan-cat",
