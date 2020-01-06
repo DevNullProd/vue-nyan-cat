@@ -1,6 +1,6 @@
 {
   "name": "vue-nyan-cat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Renders the Nyan Cat in a VueJS based interface",
   "keywords": [
     "vuejs",
