@@ -1,10 +1,13 @@
 <template>
   <div id="nyan-cat">
-    <img src="./assets/nyan-cat.gif" />
+    <img src="https://raw.githubusercontent.com/DevNullProd/vue-nyan-cat/master/src/assets/nyan-cat.gif" />
   </div>
 </template>
 
 <script>
+// FIXME: how to reference image in project in such a way that
+//        when it is built & imported, ref is not broken
+
 export default {
   name: 'NyanCat'
 }
