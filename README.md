@@ -1,6 +1,6 @@
 # vue-nyan-cat
 
-The Nyan Cat... for Vue!
+The Nyan Cat... for Vue! An example VueJS plugin used to demonstrate componentization and provide an easy starting point for future projects.
 
 ![Nyan Cat](https://raw.githubusercontent.com/DevNullProd/vue-nyan-cat/master/src/assets/nyan-cat.gif "i can haz cheezeburger?!")
 
